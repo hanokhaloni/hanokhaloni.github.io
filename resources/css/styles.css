@@ -43,14 +43,8 @@ body {
     margin-bottom: 1rem;
   }
   
-  .footer {
-    text-align: center;
-  }
-  .footer a {
-    color: #333;
-    text-decoration: none;
-  }
-  
+
+
 @media screen and (max-width: 768px) {
     body {
       padding: 0;
