@@ -1,0 +1,211 @@
+{
+  "basics": {
+    "name": "Hanokh Aloni",
+    "label": "R&D Manager",
+    "picture": "",
+    "email": "hanokh.aloni@gmail.com",
+    "phone": "(972) 523-987-216",
+    "website": "https://hanokhaloni.github.io/",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Beer Sheva",
+      "countryCode": "IL",
+      "region": "Israel"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hanokhaloni",
+        "url": "https://twitter.com/hanokhaloni"
+      },
+      {
+        "network": "Facebook",
+        "username": "hanokh.aloni",
+        "url": "https://www.facebook.com/hanoch.aloni"
+      },
+      {
+        "network": "Linkedin",
+        "username": "hanokh-aloni-3a438118",
+        "url": "https://www.linkedin.com/in/hanokh-aloni-3a438118/"
+      },
+      {
+        "network": "Github",
+        "username": "hanokhaloni",
+        "url": "https://github.com/hanokhaloni"
+      },
+      {
+        "network": "SlideShare",
+        "username": "hanochaloni",
+        "url": "https://www.slideshare.net/hanochaloni"
+      },
+      {
+        "network": "Reddit",
+        "username": "HenryAloni",
+        "url": "https://www.reddit.com/user/HenryAloni"
+      },
+      {
+        "network": "Discord",
+        "username": "hanokhaloni",
+        "url": "https://discord.com/users/hanokhaloni#1307"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nsoft",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Implemented features for a SIP based PBX with added value services targeted for the prepaid business.",
+        "C/C++ under MFC. Managed C++ (CLI), IIS and GSOAP.",
+        "Adapted the main product (N-Soft Rekoll) to support web services",
+        "Introduced multy tiered, multi agency hierarchial system."
+      ]
+    },
+    {
+      "company": "NGSOFT_",
+      "position": "President",
+      "website": "http://www.ngsoft.com",
+      "startDate": "2011-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Enterprise solutions department – R&D manager",
+      "highlights": [
+        "Supervised application development, porting, and quality assurance. Leveraged open-source software use and contribution to the open source community",
+        "Implemented a self-learning mechanism including re-introduction of efficient code reviews, design reviews, clean code training, GIS training.",
+        "Managed all Framework design activities and coordinated 30 team members across 3 site locations.",
+        "Directed Software Engineering, Network Operations, and sales. Hired and mentored key employees."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Global Game Jam",
+      "position": "Volunteer",
+      "website": "https://globalgamejam.org/",
+      "startDate": "2012-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Site organizer and focal point for GGJ and GGJ-NEXT in Beer Sheva.",
+      "highlights": [
+        "2015 Site Orgaziner",
+        "2016 Site Orgaziner",
+        "2017 Site Orgaziner",
+        "2018 Site Orgaziner",
+        "2019 Site Orgaziner",
+        "2020 Site Orgaziner",
+        "2021 Site Orgaziner",
+        "2022 Site Orgaziner"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SCE",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2001-01-01",
+      "endDate": "2007-01-01",
+      "gpa": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Architecture",
+      "level": "Advanced",
+      "keywords": [
+        "Clean architecture",
+        "Event sourcing",
+        "CQRS",
+        "Microservices",
+        "System design",
+        "N-TIER",
+        "SOA",
+        "REST",
+        "HATEOAS",
+        "Design Patterns"
+      ]
+    },
+    {
+      "name": "Software projects management",
+      "level": "Advanced",
+      "keywords": ["COGS", "Profit", "Time", "JIRA"]
+    },
+    {
+      "name": "DevOps implementation",
+      "level": "Advanced",
+      "keywords": [
+        "Continous integration",
+        "Continous deployment",
+        "Continous delivery",
+        "GITLAB",
+        "K8S",
+        "Docker",
+        "K3S",
+        "Windows",
+        "Linux",
+        "Ubuntu",
+        "Red Hat"
+      ]
+    },
+    {
+      "name": "C# Development",
+      "level": "Advanced",
+      "keywords": ["MFC", "WPF", "WCF", "ASP.NET", ".net core"]
+    },
+    {
+      "name": "C++ Development",
+      "level": "Advanced",
+      "keywords": ["c++", "c++11", "c++17", "MSBUILD", "CMAKE", "RAII", "RTTI"]
+    },
+
+    {
+      "name": "Web Development",
+      "level": "Beginner++",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
